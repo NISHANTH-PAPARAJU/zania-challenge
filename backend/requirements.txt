@@ -1,0 +1,13 @@
+python-dotenv
+pandas
+numpy
+llama-index
+openai
+llama-index
+jupyter
+ipykernel
+fastapi[standard]
+uvicorn
+slack-sdk
+llama-index-utils-workflow
+llama-index-readers-file
